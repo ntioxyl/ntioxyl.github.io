@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ntioxyl.gopde.com/ntioxyl.txt
